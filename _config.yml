@@ -1,0 +1,44 @@
+# Site settings
+title: "[승재로드]보통 돼지가 아니라구요!"
+description: "나만 알고 싶은 맛집을 찾고싶은 당신에게"
+url: "http://2tmdwo.com"
+author:
+  name: "2tmdwo"
+  email: "iam@2tmdwo.com"
+  url: "https://www.2tmdwo.com"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source:
+destination:
+permalink: /:title
+paginate: 8
+paginate_path:
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
+# 블로그 disqus shortname
+disqus:
+  shortname: 2tmdwo
