@@ -7,22 +7,22 @@ permalink: /real-god-game-the-seven-deadly-sins
 image:
   feature: thumbnail2.jpg
 categories:
-- 모바일게임
-- 칠대죄
-- 일곱개의대죄
-- 게임
-- 리뷰
+  - 모바일게임
+  - 칠대죄
+  - 일곱개의대죄
+  - 게임
+  - 리뷰
 tags:
-- 칠대죄
-- 칠대죄모바일
-- 일곱개의대죄게임
-- 칠대죄게임
-- 폰게임추천
+  - 칠대죄
+  - 칠대죄모바일
+  - 일곱개의대죄게임
+  - 칠대죄게임
+  - 폰게임추천
 description: 뜻밖의 덕통사고로 1주일을 잃어버렸습니다. 10년 묵은 게임불감증 완치에 직빵
 
 ---
 
- 안녕하세요 여러분. 승재로드의 틈두입니다. 오늘은 게임리뷰입니다. 요즘 먹는거보다 더 빠진거라서요..
+ 안녕하세요 여러분. 승재로드의 틈두입니다. 오늘은 게임리뷰입니다. 요즘 먹는거보다 더 빠진거라서요
 
 
 
@@ -30,7 +30,7 @@ description: 뜻밖의 덕통사고로 1주일을 잃어버렸습니다. 10년 �
 
  
 
-서론
+## 서론
 
 필자는 어려서부터 동네의 유명한 겜돌이였다. 나를 키운건 8할이 패미컴이요 2할은 오락실이렸다. 일요일 아침은 자유 게임시간이 주어졌기 때문에 새벽6시에 일어나서 2시간 40분을 내리 패미컴으로 게임을 즐기다가 8시45분에는 디즈니동산을 보는 것이 당시 내 삶의 낙이었다. 그 후로도 
 
@@ -54,7 +54,7 @@ description: 뜻밖의 덕통사고로 1주일을 잃어버렸습니다. 10년 �
 
 지금부터 그 썰을 풀어보도록 하자
 
-![img](file:///C:/Users/lsjbl/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png)
+
 
 ![appmarket1st](https://lh3.googleusercontent.com/3YchipPdd6-KPv80LzgNqooqqWwIAMpjeAx_Pseccesva7e9rSbl9jSWorhUk_Ez35xbEtCkVkAcUp_w2NXOq2wY156kzPwXIMWN34CN1h-9OeEZWjXsuvgce3j1anoWJyEWI3fI26xmpKXzPfUD-7nJ_WPtSfncomeyZuUOaMFF8GDfofSGYCDcej7ZGHl3Omvb0cO1hf35MKgD5OZZmotEkX3vVdz0UE4F0Lqbkrq8_GpOzSbqyJ3y2i149MXwvmke1ndKSQk3gRc4n7WDBD0p8NMxfkHUBe4Qle4Qt7EBeecCGyQ_4c8ePPWkHrIVxf6Fk82wmG4_Xe3bFxkIJb1UQzd9cWe1cdjMFoll0jRpTvyoYs5OB7raPfhggSfxFtKTMzQrTuI5iphVtLemrU7aLC1APDhyCxPTYtx1xXGGsY426YhpZxpv5F1ChNt7Ycm5cVzT2Bff-EVybs1eQ5pTUj-TnVhPrgFwfYcYtDFnW65e_sbHdEuQYE-_SScl0Yx4jr2LltIaDnl85QyNPTO7gxhyRYtPjXPLGrQR9klQsdSZ71HiQ-p6Y3A_GnCdEI7h4aN3obGf0nTF4af3jCaBqTZW_gQM66FgU1BSa7h2fhAtPjls88L3wiw2wVj3-0eXYi93p7CIrgjdRYS7ZzAP8eOCYwrB1rzWq1HHIAtgpTyP-RfPh4lU-yVFj5hpP2hBOD0uu5bIvW6hsyEbEdTk=w953-h715-no)
 
@@ -82,7 +82,7 @@ description: 뜻밖의 덕통사고로 1주일을 잃어버렸습니다. 10년 �
 
 ![myfirstur](https://lh3.googleusercontent.com/_KIqqOmTUFFiCzw7tNS4ZCU1sq4h7GnITQB8cl41XeE4hhG4xQODBP1IjKn4CVbxlCNzsEgRESYX8Up4f8F7xtj5VBTwyYHfZxM9B0GbQip52a-OIbbq7vNGlCwZlx9ZEu7It1jB4Fojbn4Pob_rCHWYL2RmNYf33vmc76EgB-TrpG4bSWJn7lFVSJGUrOMYNKVfZ6lD36DQl-w4MpsYsSbX1xD3LJ_1MiAYVhAUNVA578GpsVlqSGa8VDEQeNEO102Pp3670Vp_m_8G5i-iThdYCTc6vQhKoZZwOAJDpsqiM2moAHEHkfoEPy-MExtS-OB1OSKIonmroFuVd8zRxhPXSLKF9NOxvltGWPTnTUVSDN0_e5__fMRXo03hrbfQFkvpNfj0eZYN29pEE86oUof54MYYNtVPsu0PW799QSAfkavHVqkqOts9HApJ2yrh7akWsbdVJD4m6aU8UR9xG1cxHbduA9YnOZd-_hUT67KOHKgXMyJrb8GbHc7GYovtBxNKg28olbNSH4Y_j7TsKiSMoF-PX9BnG5eoTbYPjU2eiK0woj05Z1jAXorDDtKcF0_pZ_KaKFFPaQXedMq4HHzf6xxqDeH5oT2Ggs-04ZB95Zt5jk_Azz8ne5QyCGz0S1KDvLFTFuQRZHLUe-UdYUEXLc-YdDqZWT9zjL8ewe3xO2zEfv7XJb0yKEV_pa3DRyKGSHx9ZvoKxWd4MUZmbdfk=w413-h870-no)
 
-**게임성 및 컨텐츠(10/10)**
+### **게임성 및 컨텐츠(10/10)**
 
 이런 제길 글을 쓰는 도중 섬멸전 도움 요청이 들어왔다… 도움! 도움! 도움의 손길을 뿌리친다는 건 진정한 겜창이 아니겠지.. 일단 하고 온다! 조지고 온다! 마신족놈!
 
@@ -118,7 +118,7 @@ description: 뜻밖의 덕통사고로 1주일을 잃어버렸습니다. 10년 �
 
 ![characterupgrade](https://lh3.googleusercontent.com/Kd4f5czzykuyjcQd6sucSxmGQB6GJHYyXW0rf1gWPHu8Ba7k0nlJpmmnqcLRCgdbNcsWpZ1yMvXu53UfL49D1PJtLZb-rK2Lp8MruDqVOj6t7DxGOljW63q0zrCD2TWoMboB5Zj0fdOV4vWtvLQxj2sYismIq3a9wuRu-digcaxzpvu7V4mJx3MdzEBe1sZcr-NiUofWIoKjqYynZ182LSM7cZeRuhd-KXFlbjaiohtTlnJhNzccebEvpxVyOBN6LheUr9n9NS6PO6YWd3w88ajRXdHS6TggNWQF7eUBC57qTpQTZe8nP9J-cbSTBE2iIXJMJuO2Lq4kuwFA_48Y3E0izn4wGA9sQlMK0osa85hZcEHsHqrsC5zKH8pGTaDAFKDXt0Vxi0U0lvGK0hS1tyhnEVPtK9bi4Gdg8qvXumwC6IaA01iPGKWWfDgAjm3EdNTN65ubV2tBrXPnXshsY7fVrhmvMp8H6ElbKCz_7Nmd_3aKDIxZUa1wGH17RBoVTaMnR9RPnzm_U_509GNQo5u1eZ08j_SlMCCtcnFzGXLNA_qabQA9ZUJsY8UjaDk2oI9iRs11ECV2neVzRMYD8hFx7CCkb_f_WjRh2ScdjBBg4PJS2xCVMkMre1S8YwxH08Uwo90SOEsAqPGnBb_zzgQTIBjX-HKcU8NTjHBRYI9u99OzoqLCvTF9nC9HGSuqlQw31V4dahHkGkTZs0eU7G-N=w413-h870-no)
 
-**과금유도성(10/10)**
+### **과금유도성(10/10)**
 
 칠대죄 역시 돈은 벌어야하지 않겠나? 근데 과금 유도성이 과하지 않고 아주 딱 적절하다 스토리 모드를 진행하는 동안 딱히 과금이 필요하다는 생각이 안들 정도로 무료 다이아를 적절히 뿌려준다.
 
@@ -128,7 +128,7 @@ description: 뜻밖의 덕통사고로 1주일을 잃어버렸습니다. 10년 �
 
 ![gotcha](https://lh3.googleusercontent.com/yICELZAMqZFSx-TPuAdZvmcSDBayd3NE8flNbYEvnfZYHSZ8ApzwHILEkZVhCJtmPXehr0zmKQtIHomfGIRG3D-xRKxc6tZX8MBmsL0bd4fuuE9j5D3s1Vb6BoDB8II86kMQjGPMrwNAIW8U_c1IF-1XzvXURnRRgRFja7WE3TvPJr1X7OtLRyQDtT16CdY28Xdyw8oXpubRYiWXwY6Uw0m6SLmRfcqX2HmJ01CG3cToKbzlGhOfXsQtakU-AWBjJ4OJ_N-D33DO3fIDz1EVMC9LO8j55k5yG_jHkkUVKMKgb5wSR2rHMAo10YnvGPQU7h75-iWALhi4Nxd93alJwsCAscjv1jne4eUNB1BkO0I3__3kCRcQn0luaxH7cZbHDTom2NNNd9zN2Eo7cn7J1tzqaTXh2fVZsJrXQIQ9kZe3wIrreARmMD94BA6gYv-ic1tSvmwsSXfIdYd73_znYr5hZmD1iUDmK0tJG-cIFCO33nmN0EAvzIarHYG2hcvehfA20-1LXNAsFAvk-q5VZok6Qs2QM_ojm0akhiPy-UcbB2S9dFYoqrt51P4THLQngXYstRtOBWJIs_YylqxlnGKAyb5iOpWbHjLpESgydDcUJ-ptVUVkYgXjwa9JqDwWCIM22dXnkdG68X4H0vOHnXVOgrKICxcnrkGksHKVTctMglEaP-bL57sHApSn6T4ZGn5Dj05AO8zgor4mcjLwTePU=w413-h870-no)
 
-**원작 구현도(10/10)**
+### **원작 구현도(10/10)**
 
 원작 구현도 면에서 특히나 높은 점수를 주고 싶다. 칠대죄는 현재 애니메이션도 2기가 넘게 나왔지만 한국어 더빙 버전이 없는데 게임에서 더빙을 캐릭터 별로 했고 심지어 성기사단까지 어지간한 캐릭터는 다 들어가있다. 이거 정말 대단한 거다. 돈도 엄청 썼을거다.
 
@@ -136,11 +136,11 @@ description: 뜻밖의 덕통사고로 1주일을 잃어버렸습니다. 10년 �
 
 ![masin](https://lh3.googleusercontent.com/QhCgWpl0gCZayaK6WP-lHC5EmVD3rZkm4PdZcRPyxRh0sIRJ4dFDqsyplMJUmCITMImgtKiCF9fnpj6jV6aq6rHNyOecfzJDct5auOOYdKs6Sbx2WN6e9CZEL670atpCQC3CW5UBb0o35Y4V0v8BzaFaHkSJbKTlGl_Ydbb_m7WXlY4hZ0vI6tjeMrZDnQpQGRUC34NFZM_DiwDdwXlJy0pdqBPXW8TMbQ4I52V5vhROxYK_YNU5T8XavmzkgM0OiLDyPJL8KKy34_JlBwYciCA7u1p7yxQ3bQrrf9oQqipC-ODUvuPlMhpcke_lrVEDGzRldairwk9yYnCDgyE8PheLEzklfCAUBS4K93OO7eEj7OOuhZ6vPbllB5hpPZ-L05gECdswaKAWa54RYSra8ecRScEJS7R15dKeHq6bEVGaRyuZcTcQ_W0BFjIj4UPMd04l7_Mul03zVNBLk6cZjrn7jzo52Owt1umEaaALnbF8GCkxKOLqB3hzEJki2udYxxJWXq8xdAxKqPm0raVaBhk6OfFMS_dt4IOkbzYIcVouTovfLro-pv7O-Jvoa5lsCwvYVsE6uA7MgkkpWancGSbpwZpBw7ky9JGxOb1BJ9igaBBRVoAHmdIItXsn8cFmP9zKVXyPO-gTh9PdV3gY7N5ySvIFsDj5Nlz6_2DmI6XX1N0XTgdWU0aHsVnegvrpRMoet12oBZe4LwxK6eAkHYXx=w413-h870-no)
 
-**플레이**
+### **플레이**
 
  
 
-**운영**
+#### **운영**
 
 전반적인 운영
 
@@ -154,13 +154,13 @@ description: 뜻밖의 덕통사고로 1주일을 잃어버렸습니다. 10년 �
 
 ![masin2](https://lh3.googleusercontent.com/CLiSsJ1LrwKz3zEpIBfKUjbRxesfXnKaly2M3xkyA5kkA8tUFMl-2Z_TmNmvySizgzE8VTv8WRH7iYqflXB-B-oIHDF0mpRhSsv2t9I3sF5d2NnPxYqhLi9PxeuMUjD7iKG3zurALBlHDg7mmAXFllIZmhpBTfXyqVXajGCvDKOS1VXcCt8uMuNEzjwv7Mv6W3TmXlng4WhK0pgKPtDg_coF_kobd_pxa-zzs81aFD-vyuyt8ATz3E6bjuS8kcuXmRTvCpZNfzx2oJCrPMPeAlms-Jcmq6XtUxlNVLq_1H0U4d7HdBr19KEBNtjufXdQB1DwNbQoryo4wMjPofvUnfX2Pj6wPn5gjFnOoy6S1fwxevgxZ17qTSNeOQ-XWugFswtVLCbukCN_6LUVKb7J_eeSyOKmHOGeg0A1BSA0uf59EfjLnhlc5quup-7cCxiSHDrx0xlvbiPJWdjOJ8dim2ufMoMI5y3HhkNNenqXnYAHA9k1aX4PhsC06Lo1mpOK0xWePlsmEeGOfRzzJUsN2uJ1bLp47d07nGq39YXbo-2bJOuS8gV9jkjxtV6Mg89uBK1lcnnDQDhv7M_Og-_i6iqEq2--J789WIdo_qvF3kpQQzBv1k24ar9WiDABPbEdl9BokmkcuGGzfePjKdppdNA0LMTNTS_0r4Xni1TviRyRU82dbOpZBozgE4TCqOueTd82Uu1MbkwZjyxwwkRmo7yr=w413-h870-no)
 
-버그대응
+#### 버그대응
 
 또 초기 요리재료 이벤트가 반복적으로 수락이 되지 않는 점에 대해서도 발빠르게 대처했다는 평가가 지배적이다. 
 
  
 
-이벤트
+#### 이벤트
 
 현재 인연인증, UR캐릭터 인증 행사도 어렵지 않은 난이도 내에서 응모가 가능하며 그 응모 방법 역시 굉장히 쉽다. 게임 접속하면 뜨는 커뮤니티 창에서 덧글로 자신의 캐릭터 화면 창을 캡쳐해서 덧글로 달면 이벤트 참여 끝이다. 조금 더 많은 이벤트(예를 들면 오프라인과 연계한 쿠폰 뿌리기) 등을 기획하고 진행한다면 더할 나위 없을 것 같다.
 
@@ -168,7 +168,7 @@ description: 뜻밖의 덕통사고로 1주일을 잃어버렸습니다. 10년 �
 
  
 
-아쉬운 점
+#### 아쉬운 점
 
  대규모 업데이트 이후 설정값이 다 초기화가 되었음.
 
