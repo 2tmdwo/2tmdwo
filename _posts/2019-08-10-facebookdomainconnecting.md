@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 마개일기 1화_페이스북비지니스 관리자에서 도메인 설정하기
-date: 2019-08-10 14:20:00 +09:00
+date: 2019-08-11 22:49:00 +09:00
 author: 2tmdwo
 permalink: /MGIG_1_faceboodkbusiness_domain_setting
 image:
@@ -11,6 +11,7 @@ categories:
   - 마개이너
   - 페이스북
   - 마케팅
+  - magaediary
 tags:
   - 페이스북도메인설정
   - 마개이너일기
@@ -121,9 +122,9 @@ dns를 어떻게 등록하느지 조차도 위에 html처럼 아주 자세히 �
 
 ![menu1](https://lh3.googleusercontent.com/AJY9xy1nLg6lXsiqke8uEcYLte3wrpZ-hVZqY639DvQTr2hwsigtmOowFdgfj-1Iww5Wam7yyxPyfUSt8DYCC2KAV-XFuQ1ntoNGTTZBlaY_vriiXlAS-77qo5D3rg5L69p_jRvSB1A6pJi3s3wSeC2ccu3ZLJdcftHB0phHXqCCiNDwWxwxXMdYVKvWD03FatpBUhA0K-Faah7AtsfmGSJ-MkbhAuVq-I4Fg_dYXFD68rNI2baJ_LeqoEyLxFBbWcv291AZsTlW4m0dEaDUYbTu_ZquwiZ16HCkLx1oqFDsTRggaeYE_dMMzpI1tuat4I3MAON6EeB-HNVAoqgPhhxLiTAtYNoPnX41pPjjjt9f6FDc-tK6zd5hjZYtFdyPPMPoYeU03grddkUmy2BE4oqPmW4odZJU3HxxlTXnaj-djA5T0KlV_gTFCbVQfWQv1vOI711XxlylU_7uig8OwJ6eb8T7fxAsxF6sx2Vj7hiHUz34M20dRyrrGWB1WH-IDKXD7qx_-xIqWxpLHk31jlpjOdWThJqA3ebBlF2BYa8iNPpPj3eKGyXUBJX0lFuCT-g6zjlB0rDF30JkPqY25pL1Talj0BleLJtaCqtKTQvyr5zddYt5d8uSRGz-Kfredq_KOsHZjbJGaeqr7hd-i9vAOsLFswg=w1398-h737-no)
 
-페이지 추천 검토를 누르면 자신의 페이지도 나타난다 
+페이지 추천 검토를 누르면 자신의 페이지도 나타난다
 
-이걸 누르면 
+이걸 누르면
 
 
 

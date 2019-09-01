@@ -12,6 +12,7 @@ categories:
   - 일곱개의대죄
   - 게임
   - 리뷰
+  - 승재로드
 tags:
   - 칠대죄
   - 칠대죄모바일
@@ -28,15 +29,15 @@ description: 뜻밖의 덕통사고로 1주일을 잃어버렸습니다. 10년 �
 
 ![gamemain](https://lh3.googleusercontent.com/2l1WDzaU7zcv4RVP0exV_Kt_fX1x4Fe4i9wOyKDiVzo2eM500iNErXf-uG_B7LDv9KcgCUoWZM_Ct35Mqf1TtHFBSHBfuQ3ECVfBX3gT2HxkZX8Tnf7mhTI1HTngZQGe89j4M7J0uRHaEMuAWN8FfJxplmhFAvBR1VX1dS1BgstkRuY02F1dy4N7gC-pxL5M8gpJyE5hOWr6OxTMiXuTcvfY-_n-YfRWZxd-5UeQnqxX73bu8Yd2m-sWeFoKtXO9xr8q9wH6GqwFmGXMRqHuqw5djtfeiSRs5o_O5v_KuMW2x-aVLWo7QVcGsm3U8V3RBSvmNyE6cJkIVFf9DgTfwMTjJ9YP8PTqqGzI5EbPCaO_ylqKLlsb2CcBetVrWm7ZeQx7uRMe2IqpYzAVqCXEuKuGKgg5rW1kvhIxVAZtpQLE_Km9TiBdt-SlSmYe1fF087Ha7NyUCn8wals_plIbWZ3pboVCf3UvuhZ4zk_ULyGvSMSEhMIcWa7oC3XdT0M___jb6sn7XK44RJ4rUl-8K12VlvtFWF5rol6-1iXQV5R0x9xjDarZBWMpony2WLiLoTycTN5z6TqTFjfh3n6Roj1-D8Bgaanyy-kTgnyCVHNgTHDb_KGoO_VBz4A-hfsRy_oyiTvvZ9wYmBdFHo1ubLAP49FmdPwQBUMS1aZW5Fp5bLOrdoKwhxRsy10LIdr69LliVdSLMa-1-x_6tl145zz_=w432-h768-no)
 
- 
+
 
 ## 서론
 
-필자는 어려서부터 동네의 유명한 겜돌이였다. 나를 키운건 8할이 패미컴이요 2할은 오락실이렸다. 일요일 아침은 자유 게임시간이 주어졌기 때문에 새벽6시에 일어나서 2시간 40분을 내리 패미컴으로 게임을 즐기다가 8시45분에는 디즈니동산을 보는 것이 당시 내 삶의 낙이었다. 그 후로도 
+필자는 어려서부터 동네의 유명한 겜돌이였다. 나를 키운건 8할이 패미컴이요 2할은 오락실이렸다. 일요일 아침은 자유 게임시간이 주어졌기 때문에 새벽6시에 일어나서 2시간 40분을 내리 패미컴으로 게임을 즐기다가 8시45분에는 디즈니동산을 보는 것이 당시 내 삶의 낙이었다. 그 후로도
 
 오락실을 전전하며 삼국지, 킹오파, 메탈슬러그, 씨가 축가, 철권 등을 거쳤고
 
-컴퓨터로는 포켓몬과 디아블로2, 레인보우식스, 
+컴퓨터로는 포켓몬과 디아블로2, 레인보우식스,
 
 플스로는 매그넘 형제가 나오던 미니카 게임, 레이맨, 위닝 등으로 내공을 다졌다.
 
@@ -64,19 +65,19 @@ description: 뜻밖의 덕통사고로 1주일을 잃어버렸습니다. 10년 �
 
 물론 돈 주고 건 메인이겠지만서도말이지
 
- 
 
-그리고 출시 1주일이 채 지나지 않았지만 
+
+그리고 출시 1주일이 채 지나지 않았지만
 
 ![bestsellingappongoogleplaystore](https://lh3.googleusercontent.com/BkM-ahRmmhgiR8IuFk-rrTcZktBuIRrC2Vf0QpSOJvWXWHFzOG4xb2KlslYOKbUIMDOyKVhdQy8R4aFPcKOmdcjZBfJPjs0mqjbshaxrYZ7Lr34DZdsmih9gJ_cnkW-aI684Zburm5OxYzExb-mPNKbqcZRYLW8Cw7w1HyRjx3O8_SCTXRSbbTnvrQJPjbrjHWZbV02VA3bzF7iEWTxY7arOT1KCbLI1zITxec7We6H1u7kMl4PExGwOa1hj5Mqrv1WpCVu3QWtRFQu7XwxBbKJdBrutOA72l5GqgsusNNxM0DhoEvxanFoVsZhVYhJRu34ljnTc06YgkNfQ3Octq_0U-udDEL6RKpyMjcJFNUIeEhG9xjSmlMbNogGaUBFWOn8EOiBN9DOtqGCTJc8ttRuPpLWpb-150DRU4NDgDkUp3hw0x-jJkpHmwNLKWWCYNKoxDtTia5BBIiOI4JMf37t0nBPCQuz9qEXlKTyLwvfbWphOBGhdLVkXnNe-amIqTl4Htk4NeghXEtcSk9xKCy-q2ZdE9LH15gSBHAi2ItkbU6cYJ0Zjj2yLcbO-mR4CmcKageHi-76AVUx04Ynh6I4BRvr0a7IfKoXqVHa8NGUzsyUhPwSNKWlxXVN83QblDC832znBo6NMvnQZIWoaseMLBUxy8EJIoaFvK8_4UnZ19_dEa3GsjZIcT5XPDMDj09v1ZTdLUSdOmPfYvutvjTDM=w953-h475-no)
 
 이런 기염을 토하고 있다. 넷마블 관련 직원들 PS올라가는 소리가 여기까지 들린다 들려
 
- 
+
 
 아무튼 굳이 내가 빨지 않아도 이미 엄청난 인기를 구가하고 있다는 것 증명하기위해 굳이 혓바닥을 늘려봤다.
 
- 
+
 
 일곱개의 대죄(이하 ‘칠대죄)의 대단한 점을 게임성 및 컨텐츠, 과금유도성, 원작 구현도, 플레이, 운영의 5가지 측면에서 아주 아주 개인적인 리뷰를 해보겠다(필자는 지난 10년간 게임 불감증으로 접해보지 못한 게임도 꽤나 많다. 특히 스위치의 경우 구입한지 1년반이 지났지만 총 구동시간이 25분밖에 되지 않는다. 갓겜이라 칭송받는 젤다도 마딧세이도 필자의 맘을 흔들지 못했다.)
 
@@ -86,13 +87,13 @@ description: 뜻밖의 덕통사고로 1주일을 잃어버렸습니다. 10년 �
 
 이런 제길 글을 쓰는 도중 섬멸전 도움 요청이 들어왔다… 도움! 도움! 도움의 손길을 뿌리친다는 건 진정한 겜창이 아니겠지.. 일단 하고 온다! 조지고 온다! 마신족놈!
 
- 
+
 
 조지고 왔다. 벌써 16분 가량의 시간이 흘렀다..
 
 후 아무튼 게임성은 이렇게 글을 쓰기로 맘을 다 잡고도 게임을 하러 가게 만들만큼 마성의 흡입력을 갖고 있다.
 
- 
+
 
 요즘 모바일 게임의 필수요소는 다 가지고 있다.
 
@@ -124,7 +125,7 @@ description: 뜻밖의 덕통사고로 1주일을 잃어버렸습니다. 10년 �
 
 그걸로 충분히 가챠(캐릭터 뽑기)도하고 신기도 사고(유료 코스튬) 가끔 심심하면 장비도 뽑는다.
 
-가챠를 좀 땡겨봐야 그 확률을 알고 사람들이 현질을 한다는 것을 아주 잘 아는 넷마블의 심리전문가 놈들.. 분하지만 칭찬한다. 
+가챠를 좀 땡겨봐야 그 확률을 알고 사람들이 현질을 한다는 것을 아주 잘 아는 넷마블의 심리전문가 놈들.. 분하지만 칭찬한다.
 
 ![gotcha](https://lh3.googleusercontent.com/yICELZAMqZFSx-TPuAdZvmcSDBayd3NE8flNbYEvnfZYHSZ8ApzwHILEkZVhCJtmPXehr0zmKQtIHomfGIRG3D-xRKxc6tZX8MBmsL0bd4fuuE9j5D3s1Vb6BoDB8II86kMQjGPMrwNAIW8U_c1IF-1XzvXURnRRgRFja7WE3TvPJr1X7OtLRyQDtT16CdY28Xdyw8oXpubRYiWXwY6Uw0m6SLmRfcqX2HmJ01CG3cToKbzlGhOfXsQtakU-AWBjJ4OJ_N-D33DO3fIDz1EVMC9LO8j55k5yG_jHkkUVKMKgb5wSR2rHMAo10YnvGPQU7h75-iWALhi4Nxd93alJwsCAscjv1jne4eUNB1BkO0I3__3kCRcQn0luaxH7cZbHDTom2NNNd9zN2Eo7cn7J1tzqaTXh2fVZsJrXQIQ9kZe3wIrreARmMD94BA6gYv-ic1tSvmwsSXfIdYd73_znYr5hZmD1iUDmK0tJG-cIFCO33nmN0EAvzIarHYG2hcvehfA20-1LXNAsFAvk-q5VZok6Qs2QM_ojm0akhiPy-UcbB2S9dFYoqrt51P4THLQngXYstRtOBWJIs_YylqxlnGKAyb5iOpWbHjLpESgydDcUJ-ptVUVkYgXjwa9JqDwWCIM22dXnkdG68X4H0vOHnXVOgrKICxcnrkGksHKVTctMglEaP-bL57sHApSn6T4ZGn5Dj05AO8zgor4mcjLwTePU=w413-h870-no)
 
@@ -138,17 +139,17 @@ description: 뜻밖의 덕통사고로 1주일을 잃어버렸습니다. 10년 �
 
 ### **플레이**
 
- 
+
 
 #### **운영**
 
 전반적인 운영
 
- 딱 지금 필자가 현재까지 나온 에피소드의 마지막 장에 머무는데 극악 난이도를 자랑해서 못 깨게 만들어놨다. 그래서 노가다 작(캐릭터 성장, 진화, 각성, 스킬 업그레이드, 개성 개방 등의 컨텐츠 등으로 노가다도 아주 다양하게 심어놨다)을 유도하고 그 사이에 컨텐츠를 풀어주시네. 
+ 딱 지금 필자가 현재까지 나온 에피소드의 마지막 장에 머무는데 극악 난이도를 자랑해서 못 깨게 만들어놨다. 그래서 노가다 작(캐릭터 성장, 진화, 각성, 스킬 업그레이드, 개성 개방 등의 컨텐츠 등으로 노가다도 아주 다양하게 심어놨다)을 유도하고 그 사이에 컨텐츠를 풀어주시네.
 
 지금 글을 쓰는 와중에 1.6gb짜리 대규모 업데이트가 있었다. 아마도 멀린을 풀어내겠지?
 
-적절한 컨텐츠 업데이트까지 완벽한 게임운영이다. 
+적절한 컨텐츠 업데이트까지 완벽한 게임운영이다.
 
 또 초기 사전예약 이벤트와 리세마라 확률도 생각보다 나쁘지 않고 계정마다 가챠에 한번씩은 SSR 3개씩 터트려주는 낚시질까지 완벽한 듯하다.
 
@@ -156,9 +157,9 @@ description: 뜻밖의 덕통사고로 1주일을 잃어버렸습니다. 10년 �
 
 #### 버그대응
 
-또 초기 요리재료 이벤트가 반복적으로 수락이 되지 않는 점에 대해서도 발빠르게 대처했다는 평가가 지배적이다. 
+또 초기 요리재료 이벤트가 반복적으로 수락이 되지 않는 점에 대해서도 발빠르게 대처했다는 평가가 지배적이다.
 
- 
+
 
 #### 이벤트
 
@@ -166,13 +167,13 @@ description: 뜻밖의 덕통사고로 1주일을 잃어버렸습니다. 10년 �
 
 ![yes](https://lh3.googleusercontent.com/W2-bPBdjObYs--5TY_11WFje5WKel4faFmblrlIsxF0rYVGYrpVxBlIOsIrqjkJdfiKVn0GYpNLtb4K0nX_uay-DRmV7ZHkHXGaypIgNFS5GNzp32FjjiSYB7RPTm8ZbKCj-k1QlqGmaJsIJWE3Jp77SwsqeaZtd9Q70HhNufd5xT8ZfNwLE8Y6ABc6wXaWEdmcmwouXTib31FsuN3apDhT0pnmSOyR8ZkYjZya7nGo463gd-gFKOsRaYPAI5W_5TdHGBD1GrWh2LC5vqrRVCEBMJOdD0LzaH1WQY_zrCZdiFA67AUX3iSvOhk8FG8mpWBSTlDgbZ25GzUx4hcl_oqH2GAoRQsWWE04V9MA738J7ydVdv1voHefBpIU185cVA3bLPsNwrXB6mksNnZy5lWMrks36uHLJOgUyJwZtnCIr9lUOGx1oJtbZnuGs79cEo_jC6NkQG4d1fvX4zFebGmB8nny-FENY-XO-iv1HpTeP96--FfEf2UUds7A-hL_pSVbxRI7FSLdDoaIRObgzALv7NZ9derd2qyBEmmeppu7hQNGcVkGntVO12wva03j45Fq7zmRCByqLWMBpByQihB-f98kpMuk-CAYDT0zkH6mw-9nAIt2urnTocfu_rJyTOfQEIh2pVPR3fNLkTQjqMyYRJiyNYMl1ZXXan0axwEeDeNAnFr1ULCf7ff0N-oCoNBeCCBJkLOMfEYZYYqKn4Afl=w600-h340-no)
 
- 
+
 
 #### 아쉬운 점
 
  대규모 업데이트 이후 설정값이 다 초기화가 되었음.
 
- 
+
 
 p.s: 드디어 막힌 부분(마신으로 변한 데일)을 깸! 이히히히힣
 
@@ -180,7 +181,7 @@ p.s: 드디어 막힌 부분(마신으로 변한 데일)을 깸! 이히히히힣
 
 아마 노가다작으로 키운 다이앤의 대진화가 없었다면 오늘도 완료가 힘들었을지도. 강화퀘스트로 받은 강화물약을 다이앤에게 전부 먹였더니 대진화가!? 29에서 50으로 한번에 점프 개꿀띠(대진화하면 경험치가 2배로 들어가요)
 
- 
+
 
 그리고 역시 멀린이 나올 차례가 맞았네요 멀린 떡밥 나옴ㅋㅋ
 

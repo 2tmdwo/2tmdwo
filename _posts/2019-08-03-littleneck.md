@@ -10,6 +10,7 @@ categories:
   - 맛집
   - 음식리뷰
   - 승재로드
+  - tmdworoad
   - 양식
 tags:
   - 청담맛집
@@ -24,9 +25,9 @@ description: 다 죽어가던 청담 압구정 상권의 CPR을 넣는 스테이
 
 ---
 
- 안녕하세요 여러분. 승재로드의 틈두입니다. 
+ 안녕하세요 여러분. 승재로드의 틈두입니다.
 
-지난 7월 15일부로 백수생활을 청산해서 바쁘게 지낸 요즘입니다. 출근한지 2주밖에 지나지 않았다는 게 실감이 나지 않을 정도로 첫 출근 전날부터 출근하기 싫어지더라고요? 
+지난 7월 15일부로 백수생활을 청산해서 바쁘게 지낸 요즘입니다. 출근한지 2주밖에 지나지 않았다는 게 실감이 나지 않을 정도로 첫 출근 전날부터 출근하기 싫어지더라고요?
 
 
 
@@ -42,7 +43,7 @@ description: 다 죽어가던 청담 압구정 상권의 CPR을 넣는 스테이
 
 ![wating](https://lh3.googleusercontent.com/IUuHE9Y2aIlCJQgTCSIQ-X1PXq44ZQRRQfBDQk4bDXq7yMMrx68eA4w6RLewwdCPUuKmcTaquDtQS0SbJSDOcuFE7d2R8o5x_X4dr3li_KCm20_ejKDG-_wFtJcvC70ii9VFdYvN2Ozwjl9Milz0YV6pElwOpvbM7GG4w_PyS3Zo9RWRrjtw66QVl_Q8QvsV2zcEqpH7O36_qGvT8U7IbPCAX-2603zDRi69axJQvePaYh_fdx2RRo1IqdBAvUYcutiXqwn211Hh_hmSY4j_Z42Ksff4_8928mWwXieHVPlOcMvUtWQzKLJHALBxOcKNQYVhthVgSkHiRE0Y8FsRdk85SlQzGhbZIJkoPY96C7CzuEAjbuxM_s1GUwzQzPmkA0GpThP6xlYNVDCjjlUgMINjzkMmBWlLFeeRsU-0HAPBw-a4agOVseW945YWe-2dJeTWeV2eUZeGUlzX88TufqBzZScO6KSBBKdBE1YA7DS4wCDuYO0w9pzIdT46DtooCfUu-wfVZuGBfgzN4FlLEIYLnHZdo_s-QaCMz4yRTcd4YEI_DcKbYd6xmSul3HFVpLRNtrVTfXM0y32AYYxRLGwzL4Dr5uY5UlaqFyOrApkV6x7Uqai6BAYXDKmJv2qe2I1E0qLSSMqnKa0_ReS84LUAtIeVUZQ=w509-h903-no)
 
- 웨이팅은 저희가 1번인줄 알았는데 11시30분에 오픈하면 우르르 사람이 들어가고 한 30분~40분정도는 기다려야 들어갈 수 있다고하더라구요 앞에 지금 한 20팀이 한번에 우르르 들어간 상황입니다. 저희는 11시40분쯤 웨이팅시작한거 같아요 
+ 웨이팅은 저희가 1번인줄 알았는데 11시30분에 오픈하면 우르르 사람이 들어가고 한 30분~40분정도는 기다려야 들어갈 수 있다고하더라구요 앞에 지금 한 20팀이 한번에 우르르 들어간 상황입니다. 저희는 11시40분쯤 웨이팅시작한거 같아요
 
 저 사진 속 준이형(https://instagram.com/gjwns224)가 저의 지인입니다. 패션회사에서 일하다가 지금은 외식업계에서 일하는 준이형. 엔가 쟈켓 이제 하나 더 사던가 다른거입자! ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 언제나 멋쟁이 형입니다. 개인적으로 귀엽기도 하고 배울것도 많은 형입니다
 
@@ -70,7 +71,7 @@ description: 다 죽어가던 청담 압구정 상권의 CPR을 넣는 스테이
 
 테이블 웨어가 굉장히 모던하고 의외로 정말 편하다. 어디서 이런 좋은 식기를 찾아내셨나~ 싶을만큼
 
-물론 내가 테이블웨어를 모르니까 그렇겠지? 알고보면 테이블웨어계의 유닉글로일지도 
+물론 내가 테이블웨어를 모르니까 그렇겠지? 알고보면 테이블웨어계의 유닉글로일지도
 
 ![int2](https://lh3.googleusercontent.com/q0ZE65WTcxBsf5ovtkd7l26vccWZ9bhjcfVVSZ6HSn2L7YPoc-hCT1IKxSQuc7rOM0hjSWRhi2ekdgOZ1n6omTcU0sVXYB4CS-VEGFdZsWa_omWPdog7PwwSTsSrbbGMVtrSlOKYKxD5ec_UvyvFL4LRa6hR4TqCZopTBU4zRUaOVyj3ncWY4k9X6NgZT7vvxT_oKGnSdcDHg4f9JVJn5REd4XkVTQkwcHZJCBGW2hXMTPdeBlWVEOENVWZ703yKDyhcI2El91aevDgDJfGnXIxgHe9jp3sYidomHpkc2wpw470CHbDTSB__ldLU_RthO4kNOvfRba57qr01aR52yv9xhhVhQOUtNcSaMRa-dJgNjid6ygUcj8gCU8djIjuoiGGDvQ4hYbfBSwJQnKlubGtM60gTaSR9ANNhnsc4kE7d9gLdVowi-n_EuM_WCfg41JDPYB83ZUmAr_lKn3wsCf57qRF64xTbYB7AZ0YpRgPZ2laymQBqEUu9uKcaI6-CngVVX4leNt4DP8Qp6eolbsWS9unLZiQV69buBKU-9VMq6TRpunZTNvvbnFD9P0EWpGE82f6S8rYXsU9rKRtRz2CoxxAB4sno71exqmWtmwjMr8mMb9NVjYHof7vpKAH076OeaxdRE4YtRBXc9RspspVLE3_kMZgbiNV1dtFCYkAZxMthwJz6CfITAslj3KSQIdtUDejAmq57okeCyNVkSyNR=s903-no)
 
@@ -92,7 +93,7 @@ description: 다 죽어가던 청담 압구정 상권의 CPR을 넣는 스테이
 
 
 
-음.. 영민한거로 모자라서 인원운용 능력도 극상을 찍으신듯한 사장님이다. 
+음.. 영민한거로 모자라서 인원운용 능력도 극상을 찍으신듯한 사장님이다.
 
 ![beverage](https://lh3.googleusercontent.com/Pye9q_TQPYWuSwMvUTZYdjjr5U6eLDdOfdL0RQouufhDnvPJ6Ws36xjboUaRg_C2bv8vn5qPCih3EYke3HNH_VIScSKDGo3QWwhGJLHbYidRoRQvfW7PjJc5Y3Kcr_KJet1m0bqhOzGshtACJXplCPeOTGZzC0HNiJDHkfk4iPooHBzk0WGG3HPR-OYskJ7Ik6PczmlbFn19DZ-4lGRv7ORmCunrgKbZf7mLVY1KoBUaS21qKbcTk6hzTMqCVicF9UEo-mXGhNgc4kCBYGVCK8dhlmNafToP0YnxPNH3wJQUVjPedJK31hlJAuX2LXNN9ozqsN3IiQD_m1SHc1gByRw5l5AG5cf1BxLpN_QL5yKHt3QBCCzMGQzjgPr3KfaIUdKnaBr7o3sgY-tT4n_EaFpRmTVjkE9gyUHQ6hp2w2oclLnqGiaaKPWilw1IC3s9VV9r40PLZ2l54lSUrdqPqrmELPhSgdfxijJvsj3oqRGPR9buxTP3jaLY1n6Ukbvbme50X805_r2ytrkW7rPS-DQ86_kMCJ7CyPjYMSzOStELys0gybOtEKLvVvGKeEn2t8S-x6Y_UU1z2X7HwfZlb_s4robVW9Sw8fBMB4H3_9D_RcsBRl6YHFDhTE_MuUbTmcEC4jZDoUHV70zshW_zXUucWImv9Bo08tTyX0iqIhCtReXHvmGAfISA1w2jGa6-1Gcew01twAVKa7VbYsIKaegQ=s903-no)
 
@@ -112,11 +113,11 @@ description: 다 죽어가던 청담 압구정 상권의 CPR을 넣는 스테이
 
 우리가 시킨 메뉴의 항공샷
 
-(12시부터 시계방향으로) 
+(12시부터 시계방향으로)
 
 1. 신메뉴 컬리플라워 11.0
 2. 콜드 바질 파스타 18.0
-3. 스테이크&버섯 20.0 
+3. 스테이크&버섯 20.0
 
 ![cauliflower](https://lh3.googleusercontent.com/7s6QLaPHcdgU6srCocWzKdgL6Rbd5I3gDK3hHST5Z0KB9k6bPtx9IsPj3t12ExZ1O42Kz7i9MQf_GB8lNSBAOEjnbztNsardMnIdthU5U2Il1OJZNKX8hD_ZO-vpFGuzrDfV0WRscIRs2GpREUL3MvWAGbnvgUd-Zza5f_WAp881w9p5xuds7CZZSyV9pkctTU9KsAWjf37kRKPqeZ7MzpepBapFDTKQACMzVqV-VT9Sb-a7UtPM_2qBdVT8xIwirIJagmTaXb31Dakmp4q-J2p22ZO3Dbxrp7C3Qi0eWWmrAF9Tax0DugOmoYJU-wOZ9x2yoqe-u1S_MEkM3OcHj-pUGo9ji1fofISV3iNbd1RvsYJnA0E4CAIBW4xCXBfxqqbqQ6hyq1sy1CDGnKkJUD9mUs30fYhlY3HA4t8XbQo0_Qwc6QYkuUrESryje0VIFBjfX6O87A9O4tgfvjJIsODlDiRbLKVPdzalD1WBiToYdBnuhsSCPBM-EgQry8v_Uyd02Fln7vwcCugYNqfY8rpo4Lxn6rlTzJawoN23uSCl4bciVPVNGyj7Dik8eIKsKygepARNuKZX6kHMyO7lJXl9SNK1XPj0dNHMNlgwZuL-xFmO3UHtOKbtyhSd4eoJ7lhXecRrJKSoyGg3zP9cWE-wpN0E2T1Yv4AXLAuhHJ7KOQ7EiN-qg5zO_wO2eHxhgXHcHApidUw_MP_SfGlVGasb=s903-no)
 
@@ -136,7 +137,7 @@ description: 다 죽어가던 청담 압구정 상권의 CPR을 넣는 스테이
 
 그런데 위에 컬리플라워도 그렇고 이 녀석도 신메뉴라고 해서 신메뉴로 풀 착장 가즈아~!
 
-결론부터 말하자면 진짜 정말 잘 시켰다. 청담동 파스타 맛집의 명성에 걸맞는 메뉴였다. 적어도 내가 먹어본 콜드파스타중에서는 정말 가장 맛있었다고 엄지를 높이 치켜들겠다. 바질소스도 정말 넉넉하고 바닥에 있는 저게 당췌 뭔지 알 수는 없느나 그냥 존맛.. 헤헤 
+결론부터 말하자면 진짜 정말 잘 시켰다. 청담동 파스타 맛집의 명성에 걸맞는 메뉴였다. 적어도 내가 먹어본 콜드파스타중에서는 정말 가장 맛있었다고 엄지를 높이 치켜들겠다. 바질소스도 정말 넉넉하고 바닥에 있는 저게 당췌 뭔지 알 수는 없느나 그냥 존맛.. 헤헤
 
 p.s: 메뉴판을 찾아보니 콘크림이라고
 
@@ -148,7 +149,7 @@ p.s: 메뉴판을 찾아보니 콘크림이라고
 
 ![codlbasilpasta2](https://lh3.googleusercontent.com/rPDxCjC3GX1I1rMw51--zyo_ZPezK1OLb2v12m-DNgoWdeHOehg0KpcLWetlfskAPGNiiKnfQhLidcutVgxNAJVKBGC4xXtIDMveKjWR0tgMc1HCY80IYzcLh-SbmHInrZ-my0YUIKa2vtOrmupzwFVMSjC9yv7uY83-BehJNNImk-0A82u4j5tFvnw55GxcLIhNGbDAddSejOIaq03o1yKBisYZSfrJQ8GwBMFOm4Lgf0u9spPuRxDjNTw2IqsFgNo--M8Shs6HLKvtDP4n6W5aBtbNQu9uMtcCMKcKXULc4dRGMKAglhENJOTCiT7r7az_Do3A7ybzm_eyoEtVs5TRDaGTK1KSQHLzTzWhdCSdDUxUOnm9OBsUQ11MoQlpHb8l8cTkZS776OQwuYdk60qSvW9b08tFWd4DCwt9pscFVjxm22QlwYH9OvEpFVCxzOSk890bN7sSs2THEmwnYVfwXxaTm9J2qc24F1KHZ_b1eLhYSg1W1zD50JB0bMIl5x7S5TjA1sWBR8db5Ax02n28yC_w1GlVSau9kwAPfZtnce2-ZuQRF4cSq0BISa46MqL8y4oH-nkFFtxuKmVRy0qCA4xgRBEAUhW68gzSRJx3bxQ-jRhD4La7qKY-G6KOr1r5re-H9eaL8ZyR52FI8Rrz0UekULTrac7xB28VhydGfQnWY9q6QcUMER0OhABARfCZyL7lfOIuGM9qY3llZWJz=s903-no)
 
-바닥의 소스와 섞으면 굉장히 상큼하면서도 묵직한 크림맛으로 들어오는데 아 이거 정말 혼자서 3접시는 먹고싶은 그런 맛이다. 
+바닥의 소스와 섞으면 굉장히 상큼하면서도 묵직한 크림맛으로 들어오는데 아 이거 정말 혼자서 3접시는 먹고싶은 그런 맛이다.
 
 
 
@@ -158,7 +159,7 @@ p.s: 메뉴판을 찾아보니 콘크림이라고
 
 살치살스테이크가 한줄 올라가있는데 적어보이지만 먹다보면 제법 넉넉하게 들어가있다
 
-바닥은 버섯크림 리조또 베이스 
+바닥은 버섯크림 리조또 베이스
 
 포르치니버섯 외 3종의 버섯을 사용한 버섯크림 리조또다. 소고기는 미국산이라고하는데 2만원이란 가격에 이런 고퀄리티 리조또와 살치살 스테이크를 즐길 수 있다니.. 거기에 청담 압구정이라는 지리적 요소까지 들어가면 오히려 저렴하다고 까지 느껴지는 음식이다.
 
@@ -168,7 +169,7 @@ p.s: 메뉴판을 찾아보니 콘크림이라고
 
 ![steak2](https://lh3.googleusercontent.com/rnnNnnMY1hb7Z1GN7JnMF08DI04K1reAUyTdoRmyunfkKhBXNiH8cc5YfSrp8S6IV_EZeFDP9ZUZwnuHYg4FG8tXT9356TINNsU3X1u_H6xrr1bSePX3bPLFd3kD2g6lvzdzrRfGBd70Y0EAkiHm_k_qY63XtbLk1QYeKeXnrIiiU5bnP5uK7lS_GBtUesfp84BsHVWvYzAik2UsJQcVbBsWppvskixvH3zgi5F12-u6cnV4xGjaJ2NRQBx0_yf0dVosuhUHx_-oQ5wfyrqy7b8VH9FZpO0ZnoEffsCHc_06bB_5bhMLFmv947CcFhbBPVqbD51o5jkP80l9FRfQ2fFS3MEdGegxCWIZMyV_AfsbmyAfMgdVKwBCaKeidVnlEnn1D-ZO_oWk7GZ_Wp-cN_76bZciENmorfLJx4X7m5gyB6dxyHPcq06ik8mNbZiMErM22hjytBMJJ91Qe4fpuyLckkeSnNyD7SXgEdHhMFNBRJALha1DRinQ5Cji3-x5EgBhe2P-K0G5gcXUt5ZMIE22b_kJXtj3n90AzkZDOgVYbYwkU7h_Rm5-z9t7wzozFymoaXjVW2Z1rYAXEg8QV4d_1OECeig73P_uMGR-OaHW8rFvjxXnBzBDRWnVbi6KM0SZVxbtuWV0NTt4wrzZ5chlHkAtrWDRMG6dS99M2uJsvy1Rz-vqm2kV8-sLHYLRITv9ptdeCtVEUnWxj-dULSa3=s903-no)다슬기해장국을 먹기 전에 미리 내어주시고 다 먹을 때 쯤 다슬기해장국을 내어주시더라. 센스 칭찬해 암튼 다슬기해장국이면 충분. 차라리 다른 메뉴를 시켜보길 추천한다 다슬기전은 별루 내서탈은 아니여..
 
- 
+
 
 ## **총평 (9.5/10)**
 
