@@ -8,6 +8,12 @@ layout: default
    });
 </script>
 
+<script>
+amplitude.getInstance().logEvent('view content', {
+  title: '{{ page.title }}'
+      });
+</script>
+
 <article id="post-page">
 	{% if page.image.feature %}
 	  <img src="{{ site.url }}/img/{{ page.image.feature }}">
