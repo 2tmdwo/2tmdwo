@@ -3,7 +3,9 @@ layout: default
 ---
 
 <script>
-  fbq('trackCustom', 'ViewContent', {{post.title}});
+  fbq('track', 'ViewContent',
+	{posttitle: {{post.title}},
+	});
 </script>
 
 <article id="post-page">
