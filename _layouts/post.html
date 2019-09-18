@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+
+<script>
+  fbq('trackCustom', 'ViewContent', {{post.title}});
+</script>
+
 <article id="post-page">
 	{% if page.image.feature %}
 	  <img src="{{ site.url }}/img/{{ page.image.feature }}">
