@@ -1,5 +1,6 @@
 ---
 layout: post
+content_id: 4
 title: 청담 리틀넥, 현재 서울 파스타씬의 가장 영리한 파스타집
 date: 2019-08-03 22:20:00 +09:00
 author: 2tmdwo

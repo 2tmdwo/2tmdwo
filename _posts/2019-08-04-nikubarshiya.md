@@ -1,6 +1,7 @@
 ---
 
 layout: post
+content_id: 5
 title: 잠실 니꾸바시야, 6만원에 소고기 오마카세를 즐길 수 있다고? 슈퍼Flex하네?
 date: 2019-08-04 09:20:00 +09:00
 author: 2tmdwo

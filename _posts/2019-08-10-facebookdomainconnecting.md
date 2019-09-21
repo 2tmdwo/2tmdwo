@@ -1,5 +1,6 @@
 ---
 layout: post
+content_id: 6
 title: 마개일기 1화_페이스북비지니스 관리자에서 도메인 설정하기
 date: 2019-08-11 22:49:00 +09:00
 author: 2tmdwo
