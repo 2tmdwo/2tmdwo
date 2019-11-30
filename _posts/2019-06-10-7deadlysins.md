@@ -5,15 +5,9 @@ title: 게임불감증 완치! 10년만에 겜창 리젠되셨다. 리얼갓겜 
 date: 2019-06-10 20:30:00 +09:00
 author: 2tmdwo
 permalink: /real-god-game-the-seven-deadly-sins
-image:
-  feature: thumbnail2.jpg
-categories:
-  - 모바일게임
-  - 칠대죄
-  - 일곱개의대죄
-  - 게임
-  - 리뷰
-  - 승재로드
+featured: true
+image: thumbnail2.jpg
+categories: games
 tags:
   - 칠대죄
   - 칠대죄모바일

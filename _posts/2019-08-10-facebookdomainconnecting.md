@@ -5,14 +5,10 @@ title: 마개일기 1화_페이스북비지니스 관리자에서 도메인 설�
 date: 2019-08-11 22:49:00 +09:00
 author: 2tmdwo
 permalink: /MGIG_1_faceboodkbusiness_domain_setting
-image:
-  feature: thumbnail6.png
+featured: true
+image: thumbnail6.jpg
 categories:
   - 마개일기
-  - 마개이너
-  - 페이스북
-  - 마케팅
-  - magaediary
 tags:
   - 페이스북도메인설정
   - 마개이너일기

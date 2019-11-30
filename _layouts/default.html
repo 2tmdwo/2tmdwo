@@ -1,78 +1,57 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 
 {% include head.html %}
 
 <body>
-	<!-- Google Tag Manager (noscript) -->
+  <!-- Google Tag Manager (noscript) -->
 		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NFMZXH5"
 		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
-	<div id="wrap">
 
-	  	<!-- Navigation -->
-	  	{% include menu.html %}
+  {% if site.preloader == true %}
+  <!-- preloader -->
+  <div class="preloader">
+    <div class="loader">
+      <span class="dot"></span>
+      <div class="dots">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  </div>
+  <!-- /preloader -->
+  {% endif %}
 
-    <!-- Icon menu -->
-	  <a {% if site.reverse == true %}id="nav-menu-left"{% else %}id="nav-menu"{% endif %}>
-	  	<div id="menu"></div>
-	  </a>
+  {% include header.html %}
 
-      <!-- Header -->
-      {% if site.custom_header == true %}
-        {% include header-custom.html %}
-      {% else %}
-        {% include header.html %}
-      {% endif %}
-    <!-- Mail Mailchimp popup newsletter subscribe -->
-				<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us4.list-manage.com","uuid":"289705b519a6bb5d357b0d753","lid":"676f8f85d1","uniqueMethods":true}) })</script>
+    {{ content }}
 
-    <!-- Main content -->
-	  <div id="container">
+  {% include footer.html %}
 
-		<main>
+  <!-- jQuery -->
+  <script src="{{ site.baseurl }}/assets/plugins/jQuery/jquery.min.js"></script>
+  <!-- Bootstrap JS -->
+  <script src="{{ site.baseurl }}/assets/plugins/bootstrap/bootstrap.min.js"></script>
+  <!-- slick slider -->
+  <script src="{{ site.baseurl }}/assets/plugins/slick/slick.min.js"></script>
+  <!-- masonry -->
+  <script src="{{ site.baseurl }}/assets/plugins/masonry/masonry.js"></script>
+  
+  <!-- smooth scroll -->
+  <script src="{{ site.baseurl }}/assets/plugins/smooth-scroll/smooth-scroll.js"></script>
+  <!-- headroom -->
+  <script src="{{ site.baseurl }}/assets/plugins/headroom/headroom.js"></script>
+  <!-- reading time -->
+  <script src="{{ site.baseurl }}/assets/plugins/reading-time/readingTime.min.js"></script>
+  <!-- lunr.js -->
+  <script src="{{ site.baseurl }}/assets/plugins/search/lunr.min.js"></script>
+  <!-- search -->
+  <script src="{{ site.baseurl }}/assets/plugins/search/search.js"></script>
 
-			{{ content }}
-
-	  </main>
-
-		  <!-- Pagination links -->
-      {% if paginator.total_pages > 1 %}
-        <div class="pagination">
-          {% if paginator.previous_page == 1 %}
-            <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&laquo;</a>
-          {% elsif paginator.previous_page%}
-            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&laquo;</a>
-          {% else %}
-            <span class="page-item">&laquo;</span>
-          {% endif %}
-
-          {% for page in (1..paginator.total_pages) %}
-            {% if page == paginator.page %}
-              <span class="page-item">{{ page }}</span>
-            {% elsif page == 1 %}
-              <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">{{ page }}</a>
-            {% else %}
-              <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="page-item">{{ page }}</a>
-            {% endif %}
-          {% endfor %}
-
-          {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&raquo;</a>
-          {% else %}
-            <span class="page-item">&raquo;</span>
-          {% endif %}
-        </div>
-        {% endif %}
-
-	  </div>
-
-	    <!-- Footer -->
-	    {% include footer.html %}
-
-	    <!-- Script -->
-      {% include script.html %}
-
-	</div>
+  <!-- Main Script -->
+  <script src="{{ site.baseurl }}/assets/js/script.js"></script>
 </body>
+
 </html>

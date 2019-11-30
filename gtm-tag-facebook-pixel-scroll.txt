@@ -1,6 +1,0 @@
-<script>
-	fbq('trackCustom', 'ScrollTracking', {
-	content_title: document.title,
-	scroll_depth: '{{eventLabel}}'
-	});
-</script>

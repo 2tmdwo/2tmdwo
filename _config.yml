@@ -1,45 +1,105 @@
-# Site settings
+#-------------------------------
+# General Site Settings
+
 title: "승재로드"
-tagline: 보통 돼지가 아니라구요!
-description: "나만 알고 싶은 맛집을 찾고싶은 당신에게"
-url: "http://2tmdwo.com"
+tagline: "보통 돼지가 아니라구요!"
+logo: logo.png # You can add own logo
+description: 나만 알고 싶은 맛집을 찾고싶은 당신에게
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "https://2tmdwo.com" # The base hostname & protocol for your site, e.g. http://example.com
+
+# Preloader
+preloader: true # To disable preloader change value to false
+
+menu:
+  - url: /
+    name: Home
+  - url: /about/
+    name: About
+  - url: /categories/#승재로드
+    name: 승재로드
+  - url: /categories/#마개일기
+    name: 마개일기
+
+# *** NOTE ***
+# You can add submenus. For example:
+
+#  menu:
+#  - url: /
+#    name: Home
+#  - url: /travel/
+#    name: Travel
+#     submenu:
+#      - url: /peru/
+#        name: Peru
+# ----------------------------------
+
+layout_home_page: true # Homepage layout ( two layout is available, you can set the another layout by change the value of layout_home_page "true" to "false")
+
+featured-post-slider: true # You can enable or disable the featured-post-slider using true or false values.
+
+#-------------------------------
+# Hero Section
+hero:
+  hero-subtitle: I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print.
+  hero-banner: banner-img.png # Add your banner image '/assets/images/'
+
+#-------------------------------
+# Author Settings
 author:
-  name: "2tmdwo"
-  email: "iam@2tmdwo.com"
-  url: "https://www.2tmdwo.com"
+  name: 2tmdwo
 
+#-------------------------------
+# Contact Info
+contact:
+  email: iam@2tmdwo.com
+  address:
+    city: 믿을 수 있는 광고청정지역 승재로드
+    street:
+
+# Contact Form
+contact-form: iam@2tmdwo.com
+
+# Social links
+social:
+- {icon: "ti-facebook", link: "https://www.facebook.com/2tmdwo"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/2tmdwo"}
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: 2tmdwo # Add your shortname for Disqus Comment. For example mr-brown
+
+#-------------------------------
+
+#-------------------------------
 # Build settings
-baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
-source:
-destination:
-permalink: /:title
-paginate: 8
-paginate_path:
-
-# Default values
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-# Plugins
+permalink: pretty
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-feed
+  - jekyll/tagging
 
-# Custom variables
-version: "1.1.0"
+paginate: 8
+paginate_path: "/page/:num"
 
-# Options
-custom_header: false
-custom_nav_footer: false
-reverse: false
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
 
-# 블로그 disqus shortname
-disqus:
-  shortname: 2tmdwo
+include:
+  - _pages
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor

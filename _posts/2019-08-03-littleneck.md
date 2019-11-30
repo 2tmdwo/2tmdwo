@@ -5,14 +5,10 @@ title: 청담 리틀넥, 현재 서울 파스타씬의 가장 영리한 파스�
 date: 2019-08-03 22:20:00 +09:00
 author: 2tmdwo
 permalink: /littleneck
-image:
-  feature: thumbnail4.jpg
+featured: true
+image: thumbnail4.jpg
 categories:
-  - 맛집
-  - 음식리뷰
   - 승재로드
-  - tmdworoad
-  - 양식
 tags:
   - 청담맛집
   - 도산공원맛집

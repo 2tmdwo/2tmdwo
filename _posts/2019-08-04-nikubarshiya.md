@@ -6,15 +6,10 @@ title: 잠실 니꾸바시야, 6만원에 소고기 오마카세를 즐길 수 �
 date: 2019-08-04 09:20:00 +09:00
 author: 2tmdwo
 permalink: /nikubarshiya
-image:
-  feature: thumbnail5.jpg
+featured: true
+image: thumbnail5.jpg
 categories:
-  - 맛집
-  - 음식리뷰
   - 승재로드
-  - tmdworoad
-  - 일식
-  - 고기
 tags:
   - 잠실맛집
   - 올림픽공원맛집
